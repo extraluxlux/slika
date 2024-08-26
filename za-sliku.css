@@ -1,0 +1,47 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * exocet:
+ *   - http://typekit.com/eulas/00000000000000003b9adca6
+ *   - http://typekit.com/eulas/00000000000000003b9adca5
+ * mythos-std:
+ *   - http://typekit.com/eulas/0000000000000000000130bb
+ * saber:
+ *   - http://typekit.com/eulas/00000000000000003b9ae338
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2021-09-15 21:35:43 UTC"}*/
+
+@import url("https://p.typekit.net/p.css?s=1&k=nxj7bwj&ht=tk&f=18333.28632.28634.29935&a=87327202&app=typekit&e=css");
+
+@font-face {
+font-family:"mythos-std";
+src:url("https://use.typekit.net/af/a37a3f/0000000000000000000130bb/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/a37a3f/0000000000000000000130bb/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/a37a3f/0000000000000000000130bb/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"exocet";
+src:url("https://use.typekit.net/af/f88e8b/00000000000000003b9adca6/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"),url("https://use.typekit.net/af/f88e8b/00000000000000003b9adca6/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"),url("https://use.typekit.net/af/f88e8b/00000000000000003b9adca6/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:300;font-stretch:normal;
+}
+
+@font-face {
+font-family:"exocet";
+src:url("https://use.typekit.net/af/36c39e/00000000000000003b9adca5/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff2"),url("https://use.typekit.net/af/36c39e/00000000000000003b9adca5/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff"),url("https://use.typekit.net/af/36c39e/00000000000000003b9adca5/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:900;font-stretch:normal;
+}
+
+@font-face {
+font-family:"saber";
+src:url("https://use.typekit.net/af/d71f76/00000000000000003b9ae338/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/d71f76/00000000000000003b9ae338/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/d71f76/00000000000000003b9ae338/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+.tk-mythos-std { font-family: "mythos-std",sans-serif; }
+.tk-exocet { font-family: "exocet",sans-serif; }
+.tk-saber { font-family: "saber",sans-serif; }
